@@ -7,4 +7,4 @@ A magical arena where players fight until one wins.
 1. **Clone the repository:**
    ```bash
    git clone <repository-url>
-   cd magical-arena
+   cd Swiggy-Test
