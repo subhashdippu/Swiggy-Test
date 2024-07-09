@@ -1,0 +1,16 @@
+{
+    "name": "magical-arena",
+    "version": "1.0.0",
+    "description": "A magical arena where players fight until one wins.",
+    "main": "src/index.js",
+    "scripts": {
+        "start": "node src/index.js",
+        "test": "jest"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "jest": "^29.0.0"
+    }
+}
